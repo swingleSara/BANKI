@@ -63,11 +63,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I gathered the team member along with two others on our team to discuss the issue. I explained the urgency of the matter along with the tasks that needed to be completed and when. I have to admit I had a rather frustrated demeanor. The responsible team member said they couldn't do it. I suggested that they build one order with all of us there and perhaps we could split the work.
   - **Result:** The orders ended up mostly being done by the responsible team member once they realized I'd provided the information in a clear to follow format. I apologized for for my foul attitude. I learned that I should've had more present and active communication with a team member that is responsible for the next task in the workflow rather than "throwing" the task over the fence per se.
 
-- [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
+- [x] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- **Cause:** At a previous opportunity, when I was still learning to use Google Sheets, I did not know about a lot of the built in functions. I had a set of various strings of various lengths and needed to extract a certain set of characters (that could have been at any indices) from each in order to determine a label to add to the string.
+- **Action:** I broke the issue down into a lot of smaller, standalone functions and solved each of those issues, then combined them together into one custom function.
+- **Result:** I learned to search to see if someone has solved a problem before I attempt to code it by hand and to break down larger problems into smaller ones that I can solve instead of being overwhelmed by the larger picture.
 
 - [x] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 

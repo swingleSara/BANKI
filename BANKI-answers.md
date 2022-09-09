@@ -69,11 +69,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+- [x] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- **Cause:** At my last opportunity, I was tasked with creating a balance tracker of three different datasets for over 600 staff members each.
+- **Action:** I spent some time streamlining the process and making it as user friendly as possible, taking care that the end users may not be familiar with the interface and would need to be able to easily use it. The manager told me that I had misinterpreted the guidelines and that I had worked on data they did not need.
+- **Result:** I now get ahead of these issues by getting expectations in writing before I begin the project as well as taking time throughout the process to ensure I am on the right track before continuing.
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
 

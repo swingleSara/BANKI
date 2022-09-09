@@ -99,11 +99,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+- [x] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** At a previous opportunity, I held a number of different roles at different levels. How I approached those not completing their work was dependent on my station in the situation.
+  - **Action:** Regardless of my station, I would always approach the individual first and offer my help. As a peer, if the issue continued, I would inform the manager and let them know what I had already attempted and how the coworker's lack of effort was affecting my work. As a supervisor, I would still always approach first and offer my help. If the issue continued, I would take appropriate measures as outlined by our policies, including more one on one work and improvement plans.
+  - **Result:** Often people fall behind because of small obstacles they can overcome with a little help. Excluding and blaming only cause further issues within the team, but inclusion and support makes the team stronger.
 
 - [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
 

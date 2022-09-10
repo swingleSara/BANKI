@@ -57,7 +57,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I explained to them how to use and fill out the template and then left them to finish it.
   - **Result:** After a few hours I came to see what the final result was and found that they only partially completed it and had many mistakes. What I did then and with subsequent reports was to have them work on the quote in front of me for 30 minutes so that I could guide them and allow them to ask question. I found that technique brought people up to speed more quickly.
 
-- [x] B4) ell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+- [x] B4) Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
 
   - **Cause:** We had a rollout of shipments going on in which the schedule was tight. For the goods to come in, get assembled and leave the warehouse "orders" needed to be created in our ERP system which was a particular team members responsibility. I requested several times that they be created, but by the day in which they had to be created to not affect timing they were still not done.
   - **Action:** I gathered the team member along with two others on our team to discuss the issue. I explained the urgency of the matter along with the tasks that needed to be completed and when. I have to admit I had a rather frustrated demeanor. The responsible team member said they couldn't do it. I suggested that they build one order with all of us there and perhaps we could split the work.
@@ -105,11 +105,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** Regardless of my station, I would always approach the individual first and offer my help. As a peer, if the issue continued, I would inform the manager and let them know what I had already attempted and how the coworker's lack of effort was affecting my work. As a supervisor, I would still always approach first and offer my help. If the issue continued, I would take appropriate measures as outlined by our policies, including more one on one work and improvement plans.
   - **Result:** Often people fall behind because of small obstacles they can overcome with a little help. Excluding and blaming only cause further issues within the team, but inclusion and support makes the team stronger.
 
-- [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
+- [x] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** At a previous company, I was called into an emergency meeting when the management team received instructions to modify our staffing schedule due to the spread of COVID.
+  - **Action:** I worked dilligently, checking that what I was working on was what the management team wanted at every step so that I did not spend time working on something unneeded with such a short deadline.
+  - **Result:** I learned I work well under pressure and enjoy the fast-paced aspect of last minute changes under unforeseen circumstances. I delivered the modified schedule a day before they needed it and we were able to mitigate the spread of COVID by modifying our operations sooner than other similar facilities.
 
 - [ ] B13) Tell me about yourself.
 

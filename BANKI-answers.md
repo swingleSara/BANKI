@@ -75,11 +75,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 - **Action:** I spent some time streamlining the process and making it as user friendly as possible, taking care that the end users may not be familiar with the interface and would need to be able to easily use it. The manager told me that I had misinterpreted the guidelines and that I had worked on data they did not need.
 - **Result:** I now get ahead of these issues by getting expectations in writing before I begin the project as well as taking time throughout the process to ensure I am on the right track before continuing.
 
-- [ ] B7) Give an example of an important project goal you reached and how you achieved it.
+- [x] B7) Give an example of an important project goal you reached and how you achieved it.
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- **Cause:** The beginning of the pandemic in 2020 greatly impacted the work flow at my last opportunity. I had to completely refactor a 700 person schedule to meet new regulations, including separating staff hours to avoid cross-contamination.
+- **Action:** I took a moment to look at the overall picture and exactly what was required as a whole instead of focusing on each individual task without considering how they needed to work together.
+- **Result:** I was able to refactor the entire schedule in less than 18 hours, including assigning staff, making sure we were meeting all requirements while also providing wiggle room as needed if/when staff were infected.
 
 - [x] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
 
@@ -93,11 +93,11 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I made the call to split some of the more important pieces out to a different supplier which had been successful in the past, but cost significantly more. I then worked with the newer supplier to look at their powder coating process and identify area's that were causing issues (pre-powder cleaning was the main culprit).
   - **Result:** I was able to deliver 95% of the parts to the client for review and was able to convince them that we were resolving some issues with other pieces and all would be fine. I was able to help the supplier adjust their cleaning process so that when final production started the QC rejection rate went from 75% on the prototypes to less than 5% on production. It sounds like a lot, but for the industry and process it was rather good.
 
-- [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
+- [x] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** I had delegated a task to a subordinate, teaching them the task quickly before moving on. They assured me they understood how to do the task.
+  - **Action:** I turned in the task without double checking their work and was reprimanded because it was not done correctly. I accepted full responsibility.
+  - **Result:** I not only take a little more time to ensure that all parameters are understood both by both parties but I also take a little more time to verify that the work was done correctly. In the long term, it saves time overall and reassures the client that mistakes will be minimal.
 
 - [x] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
@@ -111,17 +111,19 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I worked dilligently, checking that what I was working on was what the management team wanted at every step so that I did not spend time working on something unneeded with such a short deadline.
   - **Result:** I learned I work well under pressure and enjoy the fast-paced aspect of last minute changes under unforeseen circumstances. I delivered the modified schedule a day before they needed it and we were able to mitigate the spread of COVID by modifying our operations sooner than other similar facilities.
 
-- [ ] B13) Tell me about yourself.
+- [x] B13) Tell me about yourself.
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** I am a self-starting diligent worker and an avid learner. I love learning new things, even so far as to teach myself how to do things simply out of curiosity of how it is done.
+  - **Action:** I use ingenuity and multi-tasking to complete difficult tasks in an efficient manner, never relying on "this is how we've always done it" just because "this is how we've always done it".
+  - **Result:** I often complete tasks ahead of schedule to leave room for last-minute changes and I am not afraid of making mistakes in order to learn something new.
 
 - [x] B14) Tell me about your experience at 100Devs.
 
-  - 100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB.
+  - **Cause:** I sought out 100devs because of its training program. I am the type of person that will learn new things just for the sake of learning.
+  - **Action:** I worked on several projects, both individually and as a team, to better flesh out my skills.
+  - **Result:** I learned a multifaced approach to fullstack development and enhanced the main tech stack we used: MERN.
 
-- [ ] b15) What do you know about our company?
+- [ ] B15) What do you know about our company?
 
   - **Cause:**
   - **Action:**
@@ -139,27 +141,29 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [ ] B18) Tell me about your dream job?  What do you really want to do with your career?
+- [x] B18) Tell me about your dream job?  What do you really want to do with your career?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** My dream job involves helping people in one way or another. I am a firm believer that if I have the means and ability to help someone, I should; I like to pay it forward.
+  - **Action:** I understand that this has to come with a balance, of course, so I want to work in a job where I can complete my tasks while enhancing them in such a way, such as with accessibility, that really helps those in need.
+  - **Result:** Such a job would be very fulfilling for me and would make something less like work and more like completeness.
 
-- [ ] B19) Tell me a time when you failed.
+- [x] B19) Tell me a time when you failed.
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** I was given a task and did not complete it correctly. Some time later, after perfecting the task, I delegated it to a subordinate but failed to verify their work.
+  - **Action:** I took ownership of the subordinate not completing the work correctly and was summarily formally disciplined.
+  - **Result:** I now not only make sure I understand the task completely but I also verify delegated work. I never repeated that error nor was the task every turned in again without verification.
 
 - [x] B20) What do you read on a regular basis?
 
-  - I tend to go through phases of topics. Recently I've been reading various books on Data Structures & Algorithms along with books about Design/Graphic Design. I'll also typically read about the natural world (plant/animal species identification, geology, environmental issues), history (particularly Pacific Northwest and Japan), architecture and travel writing. I'm a huge fan of our public library system and I regularly use it.
+  - **Cause:** Reading has always been my solitude. My parents never grounded me to my room because they knew I would just sit in there and read...so they'd have to ground me from books.
+  - **Action:** I read mostly fantasy and high fantasy, though sci-fi, crime fiction, and true crime pop up pretty regularly, too.
+  - **Result:** When not reading books, though, I tend to go down rabbit holes about very specific topics...and wind up teaching myself something like how to roll sushi, make traditional French bread, or make foaming soap from scratch!
 
-- [ ] B21) What's some critical feedback you've gotten recently?
+- [x] B21) What's some critical feedback you've gotten recently?
 
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** Something I have always struggled with is not knowing how much detail to go into, so I tend to be too vague or too detailed.
+  - **Action:** To get ahead of this, I try to learn what precisely a client requires from me so that I do not over-complicate nor under-deliver.
+  - **Result:** I am able to tailor my responses to each client specifically.
 
 - [ ] B22) Do you have any questions?
 - What is the interview process like? What is the timeline?
